@@ -25,7 +25,7 @@ double-dabble algorithm, verified with a testbench.
 
 **Simulation screenshot:**
 
-**[Insert screenshot here]**
+![Simulation waveform](screenshots/Testbench_screenshot)
 
 ## Part 2 – Simple Calculator with BCD Output
 
