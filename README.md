@@ -33,10 +33,6 @@ double-dabble algorithm, verified with a testbench.
 displaying its result as BCD via `bin2bcd`, verified with a testbench
 and tested on the FPGA board.
 
-**Simulation screenshot:**
-
-**[Insert screenshot here]**
-
 **Block diagram:**
 
 **[Insert block diagram here]**
