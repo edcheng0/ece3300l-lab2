@@ -35,7 +35,7 @@ and tested on the FPGA board.
 
 **Block diagram:**
 
-**[Insert block diagram here]**
+![Simulation waveform](screenshots/block_diagram)
 
 **Demo video:**
 
