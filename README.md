@@ -39,4 +39,4 @@ and tested on the FPGA board.
 
 **Demo video:**
 
-**[Insert video link here]**
+!(videos/ECE3300L-lab2.MOV)
